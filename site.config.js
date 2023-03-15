@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
+    title: "indie-saas",
     description: "welcome to Indie Saas!",
     theme: "light", // ['light', 'dark', 'auto']
   },
@@ -34,7 +34,7 @@ const CONFIG = {
 
   // notion configuration (required)
   notionConfig: {
-    pageId: ff64293f08464ff388c1fb4d388ac189,
+    pageId: process.env+"ff64293f08464ff388c1fb4d388ac189",
   },
 
   // plugin configuration (optional)
