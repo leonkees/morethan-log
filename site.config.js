@@ -2,18 +2,18 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "ozom_builders",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "startup sherpas",
+    image: "/public/avatar.jfif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Startup Sherpas",
     bio: "Empowering & Inspiring",
     email: "ozombuilders@gmail.com",
     linkedin: "ozombuilders",
-    github: "morethanmin",
+    github: "leonkees",
     instagram: "",
   },
   projects: [
     {
       name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/leonkees/indie-saas",
     },
   ],
   // blog setting (required)
