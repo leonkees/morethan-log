@@ -2,17 +2,17 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "ozom_builders",
-    image: "/public/avatar.jfif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/avatar.jfif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Startup Sherpas",
     bio: "Empowering & Inspiring",
     email: "ozombuilders@gmail.com",
-    linkedin: "ozombuilders",
+    linkedin: "/company/ozombuilders",
     github: "leonkees",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `indie-saas`,
       href: "https://github.com/leonkees/indie-saas",
     },
   ],
@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://https://indie-saas-crrs.vercel.app/",
   since: 2022, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
