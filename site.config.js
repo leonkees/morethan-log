@@ -7,20 +7,20 @@ const CONFIG = {
     bio: "Empowering & Inspiring",
     email: "ozombuilders@gmail.com",
     linkedin: "/company/ozombuilders",
-    github: "leonkees",
+    github: "",
     instagram: "",
   },
   projects: [
     {
-      name: `indie-saas`,
-      href: "https://github.com/leonkees/indie-saas",
+      name: `ozom builders`,
+      href: "https://ozombuilders.com/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "indie-saas",
+    title: "indie saas",
     description: "welcome to Indie Saas!",
-    theme: "light", // ['light', 'dark', 'auto']
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
