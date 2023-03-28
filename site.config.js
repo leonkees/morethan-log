@@ -12,15 +12,15 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      //name: ``,
+      //href: "",
     },
   ],
   // blog setting (required)
   blog: {
     title: "indie-saas",
     description: "welcome to Indie Saas!",
-    theme: "light", // ['light', 'dark', 'auto']
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
