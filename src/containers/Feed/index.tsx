@@ -33,7 +33,6 @@ const Feed: React.FC<Props> = ({ categories, tags, posts }) => {
       </div>
       <div className="hidden lg:block lg:col-span-3">
         <Cards.ProfileCard />
-        {/* <Cards.ServiceCard />*/}
         <Cards.ContactCard />
         <Footer className="pt-4" />
       </div>
