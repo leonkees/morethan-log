@@ -7,13 +7,13 @@ const CONFIG = {
     bio: "Empowering & Inspiring",
     email: "ozombuilders@gmail.com",
     linkedin: "/company/ozombuilders",
-    github: "leonkees",
+    github: "",
     instagram: "",
   },
   projects: [
     {
-      name: `indie-saas`,
-      href: "https://github.com/leonkees/indie-saas",
+      name: ``,
+      href: "",
     },
   ],
   // blog setting (required)
