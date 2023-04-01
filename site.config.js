@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `ozom builders`,
+      href: "https://ozombuilders.com/",
     },
   ],
   // blog setting (required)
