@@ -19,7 +19,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "indie saas",
-    description: "welcome to Indie Saas!",
+    description: "Welcome to Indie Saas!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
