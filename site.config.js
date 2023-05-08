@@ -6,7 +6,7 @@ const CONFIG = {
     role: "Startup Sherpas",
     bio: "Empowering & Inspiring",
     email: "ozombuilders@gmail.com",
-    linkedin: "/company/ozombuilders",
+    linkedin: "/company/ozombuilders/",
     github: "",
     instagram: "",
   },
