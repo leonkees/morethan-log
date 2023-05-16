@@ -39,9 +39,9 @@ const CONFIG = {
 
   // plugin configuration (optional)
   googleAnalytics: {
-    enable: false,
+    enable: true,
     config: {
-      measurementId: process.env.GOOGLE_MEASUREMENT_ID || "G-Z8K2QC01B9",
+      measurementId: process.env.G-Z8K2QC01B9      || "",
     },
   },
   googleSearchConsole: {
