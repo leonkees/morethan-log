@@ -1,4 +1,4 @@
-import { CONFIG } from "site.config"
+import  CONFIG  from "site.config"
 import { ReactCusdis } from "react-cusdis"
 import { useCallback, useEffect, useState } from "react"
 
