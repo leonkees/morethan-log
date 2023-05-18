@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Ozom Builders .com`,
+      name: `OzomBuilders.com`,
       href: "https://ozombuilders.com/",
     },
   ],
