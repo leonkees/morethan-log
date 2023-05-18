@@ -1,25 +1,25 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "ozom_builders",
+    name: "Ozom Kit",
     image: "/avatar.jfif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Startup Sherpas",
+    role: "by Ozom Builders",
     bio: "Empowering & Inspiring",
     email: "ozombuilders@gmail.com",
     linkedin: "/company/ozombuilders/",
     github: "",
-    instagram: "",
+    instagram: "/ozom.builders/",
   },
   projects: [
     {
-      name: `ozom builders`,
+      name: `Ozom Builders .com`,
       href: "https://ozombuilders.com/",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "indie saas",
-    description: "Welcome to Indie Saas!",
+    title: "OzomKit",
+    description: "Welcome to Ozom Kit!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
