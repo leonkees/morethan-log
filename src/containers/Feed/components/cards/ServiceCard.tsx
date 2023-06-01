@@ -1,8 +1,7 @@
 import CONFIG from "site.config"
 import React from "react"
 import { 
-  AiFillCodeSandboxCircle,
-  BsDiscord,
+  AiFillCodeSandboxCircle
 } from "react-icons/ai"
 
 const ServiceCard: React.FC = () => {
