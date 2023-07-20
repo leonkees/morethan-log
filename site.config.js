@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Ozom Kit",
-    image: "/avatar.jfif", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "logo-gradient.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "by Ozom Builders",
     bio: "Empowering & Inspiring",
     email: "ozombuilders@gmail.com",
