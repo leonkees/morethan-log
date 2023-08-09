@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Discord`,
-      href: "https://ozombuilders.com/",
+      href: "https://discord.com/invite/XYFBE3GPuH",
     },
   ],
   // blog setting (required)
